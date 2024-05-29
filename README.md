@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dileesha Perera</h1>
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
 
 <h3 align="center">A passionate frontend developer from Srilanka</h3>
 
