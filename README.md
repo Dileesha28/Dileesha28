@@ -8,11 +8,10 @@
 <h3 align="center">I love to learn and build something new, productive, innovative and creative.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dileesha28&label=Profile%20views&color=0e75b6&style=flat" alt="dileesha28" /> </p>
+ <h4> **I am interested in Web designing, Android development, and digital marketing** </br></h4>
 
 - 📫 How to reach me **dileeshaperera28@gmail.com**
-
 - ⚡ Fun fact **Call me as Dilee**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
