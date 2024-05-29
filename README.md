@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dileesha Perera</h1>
-![header_](header_.png)
+
+<p align="center">
+  <img src="header_.png" alt="Header Image" />
+</p>
 
 <h3 align="center">A passionate frontend developer from Srilanka</h3>
 
