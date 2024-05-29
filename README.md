@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dileesha Perera</h1>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 <h3 align="center">A passionate frontend developer from Srilanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dileesha28&label=Profile%20views&color=0e75b6&style=flat" alt="dileesha28" /> </p>
