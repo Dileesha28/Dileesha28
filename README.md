@@ -4,7 +4,8 @@
   <img src="header_.png" alt="Header Image" />
 </p>
 
-<h3 align="center">A passionate frontend developer from Srilanka</h3>
+<h2 align="center">I am an undergraduate Software Engineering student at University of Sri jayewardenepura.</br></h2>
+<h3 align="center">I love to learn and build something new, productive, innovative and creative.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dileesha28&label=Profile%20views&color=0e75b6&style=flat" alt="dileesha28" /> </p>
 
