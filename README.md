@@ -73,8 +73,11 @@
   <a href="https://prometheus.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="80" />
   </a>
-  <a href="https://www.dynatrace.com/" target="_blank" >
-    <img src="https://github.com/RishikeshOps/RishikeshOps/blob/2cc25b2346695d90429b3734f35e1705672369b0/Dynatrace_Logo_color_negative_vertical.png" height="80" />
+  <a href="https://www.elastic.co/elastic-stack)" target="_blank">
+    <img src="./images/elastic.png" height="70" alt="AWS Logo">
+  </a>
+  <a href="https://slack.com/" target="_blank">
+    <img src="./images/slack.png" height="70" alt="AWS Logo">
   </a>
 </p>
 <!--
