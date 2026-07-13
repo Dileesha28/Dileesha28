@@ -64,7 +64,7 @@
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="80" />
   </a>
   
-  ### Monitoring
+  ### Monitoring & Logging
   
  <p float="left">
   <a href="https://grafana.com/" target="_blank" >
