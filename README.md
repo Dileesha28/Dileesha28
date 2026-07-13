@@ -37,7 +37,7 @@
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif"  height="80" />
   </a> 
   <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank">
-    <img src="./images/argo-icon-color" height="70" alt="AWS Logo">
+    <img src="./images/argo-icon-color.png" height="70" alt="AWS Logo">
   </a>
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="80" />
