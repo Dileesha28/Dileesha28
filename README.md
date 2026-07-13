@@ -8,7 +8,7 @@
  
 <p align="center" >
   <samp>
-    Hey, My name is <em>Dileesha Perera</em> and I am a DevOps Enthusiast who is deeply committed to improving the efficiency and effectiveness of software development and deployment processes. My extensive knowledge of cloud computing, containerization, and automation enables me to drive innovation and deliver high-quality results. I remain dedicated to continuously expanding my skills by staying up-to-date with the latest DevOps tools and methodologies, and I'm always looking for new ways to optimize workflows and improve software delivery.🤖 :)
+    Hey, My name is <em>Dileesha Perera</em> and I am a DevOps Enthusiast who is deeply committed to improving the efficiency and effectiveness of software development and deployment processes. My extensive knowledge of cloud computing, containerization, and automation enables me to drive innovation and deliver high-quality results. I remain dedicated to continuously expanding my skills by staying up-to-date with the latest DevOps tools and methodologies, and I'm always looking for new ways to optimize workflows and improve software delivery. :)
   </samp>
   <br/>
 </p>
@@ -36,8 +36,8 @@
   <a href="https://helm.sh/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif"  height="80" />
   </a> 
-  <a href="https://argoproj.github.io/cd/" target="_blank" >
-    <img src="https://coralogix.com/wp-content/uploads/2021/06/Argo-CD-Version-Tags-1000X1000.png"  height="80" />
+  <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank">
+    <img src="./images/argo-icon-color" height="70" alt="AWS Logo">
   </a>
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="80" />
